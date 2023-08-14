@@ -1,7 +1,7 @@
 # ServerReporter
-Server Reporter automatically performs routine sysadmin tasks and generates an HTML report of the results.
+Server Reporter automatically performs routine sysadmin tasks and generates an HTML report of the results.\n
 
-Tasks performed;
+Tasks performed;</br>
 -chkdsk C:
 -SFC /scannow
 -Disk Cleanup sagerun:1
