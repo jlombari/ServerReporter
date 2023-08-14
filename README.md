@@ -13,8 +13,14 @@ generates an HTML report with the task results.
 
 ## Automated Tasks
 
-- Check Disk on C:
+- Retreive Hardware details
+- chkdsk on C:
 - SFC /ScanNow
 - Disk Cleanup sagerun:1
-- AD Health report
+- AD Health report (Checks if local device is in a domain, then performs health check on entire forest)
 - Internet Speed Test by ookla
+
+## TODO
+
+- Add alternative sagerun modes to choose from before running
+- Add pre-run environment check to determine runtime variables per OS
