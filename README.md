@@ -3,7 +3,7 @@
 ![Build Status](https://badgen.net/badge/Release/unreleased/red?icon=github)
 ![Source Status](https://badgen.net/badge/Source/temp-closed/red?icon=terminal)
 ![Framework](https://badgen.net/badge/.NET/7.0.9/green?icon=windows)
-![License](https://badgen.net/badge/License/GPL-3.0)
+ ![License](https://badgen.net/badge/License/null)
 
 Server Reporter automates common SysAdmin tasks and
 generates an HTML report with the task results.
